@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Planning projet Fric-Air" company="Fric-Air" webLink="http://" view-date="2025-05-12" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Planning projet Fric-Air" company="Fric-Air" webLink="http://" view-date="2025-05-11" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="fr_FR">
     <description><![CDATA[Il s'agit du planning des échéances ainsi que les livrables attendues dans le cadre de la mise en place du système d'information de l'entreprise Fric-Air]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="200" order="0"/>
@@ -84,10 +84,10 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="1da1b205b656476f88acd239480dc567" name="Définition du planning prévisionnel" color="#cc0000" meeting="true" start="2025-05-19" duration="0" complete="0" priority="4" expand="true"/>
-        <task id="3" uid="24f9151e7f224f2ea82cbcb0e6a18a72" name="création du cahier de charges" color="#66ff33" meeting="false" start="2025-05-19" duration="1" complete="0" priority="2" expand="true"/>
-        <task id="1" uid="776160e205f34feea1e0bca93fbbe448" name="Définition du modèle relationnel" color="#33ff00" meeting="false" start="2025-05-20" duration="3" complete="0" priority="2" expand="true"/>
-        <task id="2" uid="22b4ef0649214ee9a2d5aff0b3d3d676" name="Création des tables et des liaisons" color="#33ff33" meeting="false" start="2025-05-23" duration="7" complete="0" priority="2" expand="true"/>
+        <task id="0" uid="1da1b205b656476f88acd239480dc567" name="Définition du planning prévisionnel" color="#cc0000" meeting="true" start="2025-06-02" duration="0" complete="0" priority="4" expand="true"/>
+        <task id="3" uid="24f9151e7f224f2ea82cbcb0e6a18a72" name="création du cahier de charges" color="#66ff33" meeting="false" start="2025-06-02" duration="1" complete="0" priority="2" expand="true"/>
+        <task id="1" uid="776160e205f34feea1e0bca93fbbe448" name="Définition du modèle relationnel" color="#33ff00" meeting="false" start="2025-06-03" duration="3" complete="0" priority="2" expand="true"/>
+        <task id="2" uid="22b4ef0649214ee9a2d5aff0b3d3d676" name="Création des tables et des liaisons" color="#33ff33" meeting="false" start="2025-06-06" duration="7" complete="0" priority="2" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="NYAM NKOUE " function="SoftwareDevelopment:2" contacts="gamankoue@gmail.com" phone="0762958861"/>
